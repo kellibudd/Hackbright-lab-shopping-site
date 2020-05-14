@@ -1,2 +1,5 @@
 env/
 *.pyc
+*.DS*
+*secrets*
+__pycache__
